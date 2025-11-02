@@ -10,3 +10,4 @@ The source code of the Discord bot for the official [Next.js Discord](https://ne
 - Helping log messages that mods flag
 - Keeping rules up to date
 - Alert reactions
+- Honeypot channel (bans members (bots) who post in the designated channel)
